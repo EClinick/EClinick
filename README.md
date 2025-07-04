@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-These stats aren't accurate since I tend to code mostly in private repos :(
-
+<!--
 ## Github Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=eclinick&show_icons=true&theme=radical) 
 
@@ -9,7 +8,7 @@ These stats aren't accurate since I tend to code mostly in private repos :(
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eclinick&theme=radical)](https://git.io/streak-stats)
 
-
+->>
 <!--
 **MaxxRK/MaxxRK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
